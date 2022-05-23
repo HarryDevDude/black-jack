@@ -7,6 +7,7 @@ html {
   text-align: center;
   text-shadow: 2px 2px 4px #000000;
   font-weight: bold;
+  font-size:x-large;
 }
 
 body {
@@ -36,9 +37,10 @@ button {
   transition: 0.7s;
 }
 
-button:hover:focus {
-  color: rgb(216, 201, 201);
-  background-color: goldenrod;
+button:hover {
+  color: white;
+  background-color: rgb(248, 187, 34);
+  font-size: .7em;
   font-weight: bold;
   height: 30px;
   width: 150px;
@@ -53,7 +55,8 @@ button:hover:focus {
 
 button:focus {
   color: white;
-  background-color: goldenrod;
+  background-color: rgb(248, 187, 34);
+  font-size: .7em;
   font-weight: bold;
   height: 30px;
   width: 150px;
