@@ -1,0 +1,25 @@
+html {
+  background: url(images/CasinoTable.jpg) no-repeat center center fixed;
+  background-size:cover ;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  color: whitesmoke;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000;
+  font-weight: bold;
+}
+
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  /* color: whitesmoke; */
+}
+
+/* h1 {
+  color: whitesmoke;
+} */
+
+#message-el {
+  font-style: italic;
+  
+}
