@@ -1,8 +1,7 @@
 html {
   background: url(images/CasinoTable.jpg) no-repeat center center fixed;
-  background-size:cover ;
+  background-size: cover;
   height: 100%;
-  width: 100%;
   overflow: hidden;
   color: whitesmoke;
   text-align: center;
@@ -21,5 +20,14 @@ body {
 
 #message-el {
   font-style: italic;
+  
+}
+
+button {
+  color: black;
+  font-weight: bold;
+  height: 30px;
+  width: 150px;
+  border-radius: 55px;
   
 }
